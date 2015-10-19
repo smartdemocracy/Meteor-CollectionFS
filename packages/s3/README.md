@@ -27,6 +27,7 @@ $ meteor add cfs:s3
 
 ```json
 {
+  "Version": "2015-10-19",
   "Statement": [
     {
       "Effect": "Allow",
